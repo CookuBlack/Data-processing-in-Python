@@ -1,7 +1,7 @@
 # Data-processing-in-Python
 本仓库用于记录数据在python中的数据处理，主要包括了：numpy, pandas, matplotlib 。全部内容仅供个人学习，不可用于商业用途。
 
-<center>**项目结构**
+## 项目结构
 
 
 本项目包括了三个文件夹，Code，Recording，Data。其中Data文件夹用于存放图片数据信息，读者可以不予理会。
