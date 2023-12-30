@@ -40,7 +40,7 @@ plt.xlim(0.5, 4.5)
 plt.show()
 ```
 
-![简单的直线](..\Data\简单的直线.png)
+![简单的直线](../Data/简单的直线.png)
 
 ## 4. 基本的2D绘图
 
@@ -62,11 +62,11 @@ ax3.plot(x, y_cos, color='red', marker='+', linestyle='dashed')
 plt.show()
 ```
 
-![sin_1](..\Data\sin_1.png)
+![sin_1](../Data/sin_1.png)
 
-![sin_2](..\Data\sin_2.png)
+![sin_2](../Data/sin_2.png)
 
-![cos](..\Data\cos.png)
+![cos](../Data/cos.png)
 
 ```python
 x = np.linspace(0, 10, 200)
@@ -83,7 +83,7 @@ ax.plot('x', 'mean', color='black', data=data_obj)
 plt.show()
 ```
 
-![射线](..\Data\射线.png)
+![射线](../Data/射线.png)
 
 ```python
 # 散点图
@@ -93,7 +93,7 @@ plt.scatter(x, y, color='red', marker='+')
 plt.show()
 ```
 
-![散点图](..\Data\散点图.png)SS
+![散点图](../Data/散点图.png)SS
 
 ```python
 # 条形图
@@ -110,4 +110,4 @@ axes[1].axvline(0, color='gray', linewidth=2)
 plt.show()
 ```
 
-![条形统计图](..\Data\条形统计图.png)
+![条形统计图](../Data/条形统计图.png)
