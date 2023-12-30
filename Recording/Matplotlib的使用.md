@@ -29,7 +29,7 @@ axes[1, 0].set(title = 'Lower Left')
 axes[1, 1].set(title = 'Lower Right')
 ```
 
-![多个画纸](..\Data\多个画纸.png)
+![多个画纸](.\Data\多个画纸.png)
 
 ## 3. 简单的绘图方式
 
